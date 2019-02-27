@@ -3,7 +3,7 @@
 ```go
 package main
 
-import "github.com/Boozilla/gacha/gacha"
+import "github.com/Boozilla/gacha"
 
 func main() {
 	entry := make([]Capsule, 45)
